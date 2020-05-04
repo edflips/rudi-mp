@@ -1,4 +1,6 @@
-# rudi.mp
+edflips/rudis-bright-ideas
+
+# rudi's bright ideas
 
 > Rudi&#39;s bright ideas
 
