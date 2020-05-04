@@ -1,4 +1,4 @@
-edflips/rudis-bright-ideas
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d39123e1-60fb-4e8f-a124-11c234ca4b8e/deploy-status)](https://app.netlify.com/sites/dreamy-panini-bbcb4e/deploys)
 
 # rudi's bright ideas
 
