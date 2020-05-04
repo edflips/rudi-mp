@@ -1,11 +1,15 @@
 <template>
   <figure>
     <figcaption class="sr-only">{{ title }}</figcaption>
-    <vue-plyr>
+    <audio controls :src="`/audio/${audio}`">
+      Your browser does not support the
+      <code>audio</code> element.
+    </audio>
+    <!-- <vue-plyr>
       <audio>
         <source :src="`/audio/${audio}`" type="audio/mp4" />
       </audio>
-    </vue-plyr>
+    </vue-plyr> -->
   </figure>
 </template>
 
