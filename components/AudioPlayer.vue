@@ -3,7 +3,7 @@
     <figcaption class="sr-only">{{ title }}</figcaption>
     <vue-plyr>
       <audio>
-        <source :src="require(`@/assets/audio/${audio}`)" type="audio/mp4" />
+        <source :src="`/audio/${audio}`" type="audio/mp4" />
       </audio>
     </vue-plyr>
   </figure>
